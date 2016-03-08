@@ -1,0 +1,126 @@
+*NOTE: RAN WITH PARAMETERS 5 1 1*
+
+Consumer 5 assigned request ID:0, processing request for the next 0.85 seconds, current time is 1446232998310
+Consumer 1 assigned request ID:1, processing request for the next 0.442 seconds, current time is 1446232998344
+Consumer 4 assigned request ID:2, processing request for the next 0.013 seconds, current time is 1446232998735
+Consumer 4: completed request ID: 2 at time 1446232998752
+Consumer 1: completed request ID: 1 at time 1446232998787
+Consumer 5: completed request ID: 0 at time 1446232999161
+Consumer 1 assigned request ID:3, processing request for the next 0.182 seconds, current time is 1446232999624
+Consumer 5 assigned request ID:4, processing request for the next 0.057 seconds, current time is 1446232999668
+Consumer 5: completed request ID: 4 at time 1446232999729
+Consumer 1: completed request ID: 3 at time 1446232999807
+Consumer 5 assigned request ID:5, processing request for the next 0.025 seconds, current time is 1446233000466
+Consumer 5: completed request ID: 5 at time 1446233000495
+Consumer 2 assigned request ID:6, processing request for the next 0.963 seconds, current time is 1446233000708
+Consumer 3 assigned request ID:7, processing request for the next 0.852 seconds, current time is 1446233001502
+Consumer 1 assigned request ID:8, processing request for the next 0.666 seconds, current time is 1446233001569
+Consumer 2: completed request ID: 6 at time 1446233001676
+Consumer 2 assigned request ID:9, processing request for the next 0.422 seconds, current time is 1446233001775
+Consumer 2: completed request ID: 9 at time 1446233002202
+Consumer 1: completed request ID: 8 at time 1446233002235
+Consumer 3: completed request ID: 7 at time 1446233002356
+Consumer 5 assigned request ID:10, processing request for the next 0.94 seconds, current time is 1446233002702
+Consumer 2 assigned request ID:11, processing request for the next 0.912 seconds, current time is 1446233002836
+Consumer 4 assigned request ID:12, processing request for the next 0.254 seconds, current time is 1446233003185
+Consumer 1 assigned request ID:13, processing request for the next 0.202 seconds, current time is 1446233003191
+Consumer 1: completed request ID: 13 at time 1446233003393
+Consumer 4: completed request ID: 12 at time 1446233003444
+Consumer 5: completed request ID: 10 at time 1446233003644
+Consumer 2: completed request ID: 11 at time 1446233003748
+Consumer 2 assigned request ID:14, processing request for the next 0.319 seconds, current time is 1446233004109
+Consumer 2: completed request ID: 14 at time 1446233004432
+Consumer 5 assigned request ID:15, processing request for the next 0.431 seconds, current time is 1446233004747
+Consumer 4 assigned request ID:16, processing request for the next 0.886 seconds, current time is 1446233005124
+Consumer 5: completed request ID: 15 at time 1446233005178
+Consumer 3 assigned request ID:17, processing request for the next 0.255 seconds, current time is 1446233005319
+Consumer 2 assigned request ID:18, processing request for the next 0.58 seconds, current time is 1446233005395
+Consumer 1 assigned request ID:19, processing request for the next 0.066 seconds, current time is 1446233005486
+Consumer 1: completed request ID: 19 at time 1446233005552
+Consumer 3: completed request ID: 17 at time 1446233005579
+Consumer 3 assigned request ID:20, processing request for the next 0.215 seconds, current time is 1446233005803
+Consumer 5 assigned request ID:21, processing request for the next 0.137 seconds, current time is 1446233005932
+Consumer 2: completed request ID: 18 at time 1446233005981
+Consumer 4: completed request ID: 16 at time 1446233006012
+Consumer 3: completed request ID: 20 at time 1446233006019
+Consumer 5: completed request ID: 21 at time 1446233006072
+Consumer 1 assigned request ID:22, processing request for the next 0.071 seconds, current time is 1446233006466
+Consumer 3 assigned request ID:23, processing request for the next 0.319 seconds, current time is 1446233006518
+Consumer 1: completed request ID: 22 at time 1446233006541
+Consumer 3: completed request ID: 23 at time 1446233006837
+Consumer 2 assigned request ID:24, processing request for the next 0.093 seconds, current time is 1446233007482
+Consumer 2: completed request ID: 24 at time 1446233007579
+Consumer 2 assigned request ID:25, processing request for the next 0.403 seconds, current time is 1446233007905
+Consumer 4 assigned request ID:26, processing request for the next 0.817 seconds, current time is 1446233008150
+Consumer 2: completed request ID: 25 at time 1446233008309
+Consumer 2 assigned request ID:27, processing request for the next 0.761 seconds, current time is 1446233008949
+Consumer 4: completed request ID: 26 at time 1446233008970
+Consumer 3 assigned request ID:28, processing request for the next 0.105 seconds, current time is 1446233009263
+Consumer 3: completed request ID: 28 at time 1446233009369
+Consumer 4 assigned request ID:29, processing request for the next 0.177 seconds, current time is 1446233009523
+Consumer 1 assigned request ID:30, processing request for the next 0.453 seconds, current time is 1446233009572
+Consumer 4: completed request ID: 29 at time 1446233009703
+Consumer 2: completed request ID: 27 at time 1446233009713
+Consumer 1: completed request ID: 30 at time 1446233010025
+Consumer 3 assigned request ID:31, processing request for the next 0.068 seconds, current time is 1446233010334
+Consumer 3: completed request ID: 31 at time 1446233010402
+Consumer 1 assigned request ID:32, processing request for the next 0.714 seconds, current time is 1446233010832
+Consumer 3 assigned request ID:33, processing request for the next 0.442 seconds, current time is 1446233010924
+Consumer 3: completed request ID: 33 at time 1446233011367
+Consumer 1: completed request ID: 32 at time 1446233011550
+Consumer 1 assigned request ID:34, processing request for the next 0.561 seconds, current time is 1446233011629
+Consumer 2 assigned request ID:35, processing request for the next 0.999 seconds, current time is 1446233011659
+Consumer 4 assigned request ID:36, processing request for the next 0.933 seconds, current time is 1446233011681
+Consumer 1: completed request ID: 34 at time 1446233012194
+Consumer 5 assigned request ID:37, processing request for the next 0.786 seconds, current time is 1446233012580
+Consumer 4: completed request ID: 36 at time 1446233012616
+Consumer 2: completed request ID: 35 at time 1446233012662
+Consumer 3 assigned request ID:38, processing request for the next 0.972 seconds, current time is 1446233012871
+Consumer 5: completed request ID: 37 at time 1446233013369
+Consumer 2 assigned request ID:39, processing request for the next 0.656 seconds, current time is 1446233013640
+Consumer 3: completed request ID: 38 at time 1446233013848
+Consumer 3 assigned request ID:40, processing request for the next 0.71 seconds, current time is 1446233013921
+Consumer 2: completed request ID: 39 at time 1446233014298
+Consumer 5 assigned request ID:41, processing request for the next 0.595 seconds, current time is 1446233014485
+Consumer 3: completed request ID: 40 at time 1446233014636
+Consumer 5: completed request ID: 41 at time 1446233015085
+Consumer 1 assigned request ID:42, processing request for the next 0.837 seconds, current time is 1446233015265
+Consumer 2 assigned request ID:43, processing request for the next 0.669 seconds, current time is 1446233015947
+Consumer 1: completed request ID: 42 at time 1446233016103
+Consumer 2: completed request ID: 43 at time 1446233016620
+Consumer 1 assigned request ID:44, processing request for the next 0.44 seconds, current time is 1446233016876
+Consumer 1: completed request ID: 44 at time 1446233017321
+Consumer 2 assigned request ID:45, processing request for the next 0.931 seconds, current time is 1446233017839
+Consumer 3 assigned request ID:46, processing request for the next 0.502 seconds, current time is 1446233018648
+Consumer 2: completed request ID: 45 at time 1446233018770
+Consumer 3: completed request ID: 46 at time 1446233019153
+Consumer 1 assigned request ID:47, processing request for the next 0.145 seconds, current time is 1446233019370
+Consumer 1: completed request ID: 47 at time 1446233019520
+Consumer 2 assigned request ID:48, processing request for the next 0.289 seconds, current time is 1446233020022
+Consumer 2: completed request ID: 48 at time 1446233020316
+Consumer 5 assigned request ID:49, processing request for the next 0.585 seconds, current time is 1446233020791
+Consumer 5: completed request ID: 49 at time 1446233021381
+Consumer 1 assigned request ID:50, processing request for the next 0.512 seconds, current time is 1446233021725
+Consumer 1: completed request ID: 50 at time 1446233022237
+Consumer 3 assigned request ID:51, processing request for the next 0.502 seconds, current time is 1446233022548
+Consumer 5 assigned request ID:52, processing request for the next 0.256 seconds, current time is 1446233022781
+Consumer 1 assigned request ID:53, processing request for the next 0.039 seconds, current time is 1446233022986
+Consumer 1: completed request ID: 53 at time 1446233023030
+Consumer 5: completed request ID: 52 at time 1446233023042
+Consumer 3: completed request ID: 51 at time 1446233023052
+Consumer 2 assigned request ID:54, processing request for the next 0.272 seconds, current time is 1446233023813
+Consumer 1 assigned request ID:55, processing request for the next 0.559 seconds, current time is 1446233024085
+Consumer 2: completed request ID: 54 at time 1446233024085
+Consumer 3 assigned request ID:56, processing request for the next 0.135 seconds, current time is 1446233024204
+Consumer 3: completed request ID: 56 at time 1446233024340
+Consumer 3 assigned request ID:57, processing request for the next 0.328 seconds, current time is 1446233024345
+Consumer 4 assigned request ID:58, processing request for the next 0.175 seconds, current time is 1446233024598
+Consumer 1: completed request ID: 55 at time 1446233024645
+Consumer 3: completed request ID: 57 at time 1446233024679
+Consumer 4: completed request ID: 58 at time 1446233024776
+Consumer 1 assigned request ID:59, processing request for the next 0.483 seconds, current time is 1446233025557
+Consumer 1: completed request ID: 59 at time 1446233026041
+Consumer 4 assigned request ID:60, processing request for the next 0.828 seconds, current time is 1446233026348
+Consumer 2 assigned request ID:61, processing request for the next 0.041 seconds, current time is 1446233026683
+Consumer 2: completed request ID: 61 at time 1446233026724
+Consumer 4: completed request ID: 60 at time 1446233027177

@@ -1,0 +1,85 @@
+./produceConsume 3 3 3
+
+
+Hello from consumer #561272576 at time 1446230521
+Hello from consumer #552879872 at time 1446230521
+Hello from consumer #544487168 at time 1446230521
+Hello from producer #536094464 at time 1446230523
+Producer enqueing time: 2 and id 0 at time 1446230523
+Enqueueing-------------------
+Producer sleeping for 2 at time 1446230523
+Dequeueing-------------------
+thread #561272576 is going to sleep for 2 with job number: 0 at time 1446230523
+Producer enqueing time: 1 and id 1 at time 1446230525
+thread #561272576 is done with job number 0 at time 1446230525
+Enqueueing-------------------
+Producer sleeping for 2 at time 1446230525
+Dequeueing-------------------
+thread #552879872 is going to sleep for 1 with job number: 1 at time 1446230525
+thread #552879872 is done with job number 1 at time 1446230526
+Producer enqueing time: 3 and id 2 at time 1446230527
+Enqueueing-------------------
+Producer sleeping for 2 at time 1446230527
+Dequeueing-------------------
+thread #544487168 is going to sleep for 3 with job number: 2 at time 1446230527
+Producer enqueing time: 2 and id 3 at time 1446230529
+Enqueueing-------------------
+Producer sleeping for 1 at time 1446230529
+Dequeueing-------------------
+thread #561272576 is going to sleep for 2 with job number: 3 at time 1446230529
+thread #544487168 is done with job number 2 at time 1446230530
+Producer enqueing time: 1 and id 4 at time 1446230530
+Enqueueing-------------------
+Producer sleeping for 2 at time 1446230530
+Dequeueing-------------------
+thread #552879872 is going to sleep for 1 with job number: 4 at time 1446230530
+thread #561272576 is done with job number 3 at time 1446230531
+thread #552879872 is done with job number 4 at time 1446230531
+Producer enqueing time: 3 and id 5 at time 1446230532
+Enqueueing-------------------
+Producer sleeping for 2 at time 1446230532
+Dequeueing-------------------
+thread #544487168 is going to sleep for 3 with job number: 5 at time 1446230532
+Producer enqueing time: 3 and id 6 at time 1446230534
+Enqueueing-------------------
+Producer sleeping for 2 at time 1446230534
+Dequeueing-------------------
+thread #561272576 is going to sleep for 3 with job number: 6 at time 1446230534
+thread #544487168 is done with job number 5 at time 1446230535
+Producer enqueing time: 3 and id 7 at time 1446230536
+Enqueueing-------------------
+Producer sleeping for 2 at time 1446230536
+Dequeueing-------------------
+thread #552879872 is going to sleep for 3 with job number: 7 at time 1446230536
+thread #561272576 is done with job number 6 at time 1446230537
+Producer enqueing time: 1 and id 8 at time 1446230538
+Enqueueing-------------------
+Producer sleeping for 1 at time 1446230538
+Dequeueing-------------------
+thread #544487168 is going to sleep for 1 with job number: 8 at time 1446230538
+thread #552879872 is done with job number 7 at time 1446230539
+Producer enqueing time: 2 and id 9 at time 1446230539
+Enqueueing-------------------
+thread #544487168 is done with job number 8 at time 1446230539
+Dequeueing-------------------
+Producer sleeping for 2 at time 1446230539
+thread #544487168 is going to sleep for 2 with job number: 9 at time 1446230539
+thread #544487168 is done with job number 9 at time 1446230541
+Producer enqueing time: 3 and id 10 at time 1446230541
+Enqueueing-------------------
+Producer sleeping for 3 at time 1446230541
+Dequeueing-------------------
+thread #552879872 is going to sleep for 3 with job number: 10 at time 1446230541
+thread #552879872 is done with job number 10 at time 1446230544
+Producer enqueing time: 1 and id 11 at time 1446230544
+Enqueueing-------------------
+Producer sleeping for 1 at time 1446230544
+Dequeueing-------------------
+thread #561272576 is going to sleep for 1 with job number: 11 at time 1446230544
+thread #561272576 is done with job number 11 at time 1446230545
+Producer enqueing time: 3 and id 12 at time 1446230545
+Enqueueing-------------------
+Producer sleeping for 3 at time 1446230545
+Dequeueing-------------------
+thread #544487168 is going to sleep for 3 with job number: 12 at time 1446230545
+thread #544487168 is done with job number 12 at tim

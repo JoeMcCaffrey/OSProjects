@@ -1,0 +1,9 @@
+batch-shell> ls
+Process ID: 80124
+file1.html file2.txt
+dir1 dir2 
+batch-shell> pwd
+Process ID: 80125
+Users/Jim/Desktop
+batch-shell>exit
+
